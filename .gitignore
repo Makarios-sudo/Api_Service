@@ -1,0 +1,8 @@
+.idea
+accounts/__pycache__
+accounts/migrations
+Api/__pycache__
+Music_school/__pycache__
+projects/__pycache__
+projects/migrations
+db.sqlite3
